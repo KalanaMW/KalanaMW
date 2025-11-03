@@ -7,6 +7,17 @@
 </h1>
 <p align="center"><strong>Undergraduate — IT & Management @ UOM | Full-Stack · Product-Minded</strong></p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&width=600&height=40&lines=Full-Stack+Developer;IoT+Enthusiast;Business+&+Tech" alt="typing" />
+</p>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif" alt="coding" width="280" />
+</p>
+
+
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalanamw&label=Profile%20views&color=0e75b6&style=flat" alt="kalanamw" /> </p>
 
