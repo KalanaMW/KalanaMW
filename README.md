@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://i.redd.it/bpxxqqvps4h91.gif" alt="Kalana Warnakulasooriya" width="160" height="160" style="border-radius:50%;" />
+</p>
 <h1 align="center">Hi 👋, I'm Kalana</h1>
 <h3 align="center">A code lover 🚀 exploring full-stack wonders 💻. I turn ideas into tech magic ✨. Let's create something AWESOME! </h3>
 
