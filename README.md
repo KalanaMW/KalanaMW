@@ -17,10 +17,6 @@
 
 ---
 
-### 👨🏻‍💻 About Me
-I’m an undergraduate at the University of Moratuwa studying IT & Management. I'm interested in software development and full stack wonders, while caring deeply about product fit and UX.
-
-
 ## 👨‍💻 About Me
 
 I’m an **undergraduate at the University of Moratuwa** studying **IT & Management**.  
