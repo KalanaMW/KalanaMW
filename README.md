@@ -1,8 +1,10 @@
 <p align="center">
   <img src="https://i.redd.it/bpxxqqvps4h91.gif" alt="Kalana Warnakulasooriya" width="720" height="480" style="border-radius:50%;" />
 </p>
-<h1 align="center">Hi 👋, I'm Kalana</h1>
-<h3 align="center">A code lover 🚀 exploring full-stack wonders 💻. I turn ideas into tech magic ✨. Let's create something AWESOME! </h3>
+
+<h1 align="center">Kalana M Warnakulasooriya</h1>
+<p align="center"><strong>Undergraduate — IT & Management @ UOM | Full-Stack · Product-Minded</strong></p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalanamw&label=Profile%20views&color=0e75b6&style=flat" alt="kalanamw" /> </p>
 
