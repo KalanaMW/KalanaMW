@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://res.cloudinary.com/dgyqfax25/image/upload/v1762186112/Untitled_design_evemta.png" alt="Logo" width="35" height="35" style="vertical-align: middle; border-radius: 50%; margin-right: 8px;" />
+  <img src="https://res.cloudinary.com/dgyqfax25/image/upload/v1762186341/Untitled_design_evemta_8b0dfd.jpg" />
   Kalana Warnakulasooriya
 </h1>
 <p align="center"><strong>Undergraduate — IT & Management @ UOM | Full-Stack · Product-Minded</strong></p>
