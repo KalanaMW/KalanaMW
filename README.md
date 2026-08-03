@@ -84,15 +84,24 @@ Currently, I work on **full-stack web applications** using modern frameworks lik
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KalanaMW&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=KalanaMW&show_icons=true&theme=tokyonight&cache_seconds=86400&v=2"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KalanaMW&theme=tokyonight" alt="GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=KalanaMW&theme=tokyonight&v=2"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalanaMW&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=KalanaMW&layout=compact&theme=tokyonight&cache_seconds=86400&v=2"
+    alt="Top Languages"
+  />
 </p>
 
 ---
