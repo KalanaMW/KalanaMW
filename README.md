@@ -81,29 +81,4 @@ Currently, I work on **full-stack web applications** using modern frameworks lik
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=KalanaMW&show_icons=true&theme=tokyonight&cache_seconds=86400&v=2"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=KalanaMW&theme=tokyonight&v=2"
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=KalanaMW&layout=compact&theme=tokyonight&cache_seconds=86400&v=2"
-    alt="Top Languages"
-  />
-</p>
-
----
-
 ⭐️ *Profile maintained by [Kalana Warnakulasooriya](https://github.com/KalanaMW)*  
